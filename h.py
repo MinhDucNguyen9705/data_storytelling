@@ -1,97 +1,164 @@
-class Animal(object):
-    def __init__(self, age):
-        self.name = None
-        self.age = age 
-    def get_name(self):
-        return self.name 
-    def get_age(self):
-        return self.name
-    def __str__(self):
-        return "Animal: " + self.name + ', ' + str(self.age)
-    def set_name(self, name):
-        self.name = name
+import random
+import turtle
 
-class Cat(Animal):
-    def speak(self):
-        print('meow')
-    
-    def __str__(self):
-        return "Cat: " + self.name + ", " +str(self.age)
+# function to check whether turtle 
+# is in Screen or not
+def isInScreen(win, turt):
+	
+	# getting the end points of turtle screen
+	leftBound = -win.window_width() / 2
+	rightBound = win.window_width() / 2
+	topBound = win.window_height() / 2
+	bottomBound = -win.window_height() / 2
 
-class Person(Animal):
-    def __init__(self, name, age):
-        Animal.__init__(self, age)
-        self.set_name(name)
-        self.friends = []
-    
-    def get_friends(self):
-        return self.friends
-    
-    def set_friends(self, friends):
-        for f in friends:
-            self.friends.append(f)
+	# getting the current position of the turtle
+	turtleX = turt.xcor()
+	turtleY = turt.ycor()
 
-    def speak(self):
-        print('Hello')
+	# variable to store whether in screen or not
+	stillIn = True
 
-    def age_diff(self, other):
-        return abs(self.age - other.age)
-    
-    def __str__(self):
-        return 'Person: ' + str(self.name) +', ' + str(self.age)
+	# condition to check whether in screen or not
+	if turtleX > rightBound or turtleX < leftBound:
+		stillIn = False
+	if turtleY > topBound or turtleY < bottomBound:
+		stillIn = False
 
-class Student(Person):
-    def __init__(self, name, age, major=None):
-        super().__init__(name, age)
-        self.major = major
-    
-    def speak():
-        print('I am a HUST student')
+	# returning the result
+	return stillIn
 
-    def set_major(self, major):
-        self.major = major 
 
-    def __str__(self):
-        return 'Student: ' + str(self.name) + ', ' + str(self.age) + ', ' +self.major
+# function to check whether both turtle have
+# different position or not
+def sameposition(Red, Blue):
+	if Red.pos() == Blue.pos():
+		return False
+	else:
+		return True
 
-class Rabbit(Animal):
-    tag=1
-    def __init__(self, age, parent1=None, parent2=None):
-        super().__init__(age)
-        self.parent1 = parent1
-        self.parent2 = parent2
-        self.rid = Rabbit.tag 
-        Rabbit.tag += 1
-    
-    def get_id(self):
-        return str(self.rid).zfill(3)
-    
-    def __str__(self):
-        parent1 = None if self.get_parent1() is None else self.get_parent1().get_id()
-        parent2 = None if self.get_parent2() is None else self.get_parent2().get_id()
-        return 'Rabbit: ' + str(self.age) + ', ' + str(self.get_id()) + ', ' +str(parent1) + ', ' +str(parent2 )
+# main function
+def main():
 
-    def get_parent1(self):
-        return self.parent1
-    
-    def get_parent2(self):
-        return self.parent2
-    
-    def __add__(self, other):
-        return Rabbit(0, self, other)
-    
-    def __eq__(self, other):
-        same_parent = (self.get_parent1().get_id() == other.get_parent1().get_id()) and (self.get_parent2().get_id() == other.get_parent2().get_id()) 
-        opposite_parents = (self.get_parent1().get_id() == other.get_parent2().get_id()) and (self.get_parent2().get_id() == other.get_parent1().get_id()) 
-        return same_parent or opposite_parents
-    
-if __name__ == '__main__':
-    r1 = Rabbit(3)
-    r2 = Rabbit(4)
-    r3 = r1+r2
-    r4 = r2+r1
-    print(r3)
-    print(r4)
-    print(r3 == r4 )
-    print(r1)
-    print(Rabbit.tag)
+	# screen initialization for turtle
+	wn = turtle.Screen()
+
+	# Turtle Red initialization
+	# instantiate a new turtle object 
+	# called 'Red'
+	Red = turtle.Turtle()
+	
+	# set pencolor as red
+	Red.pencolor("red")
+	
+	# set pensize as 5
+	Red.pensize(5)
+	
+	# set turtleshape as turtle
+	Red.shape('turtle')
+	pos = Red.pos()
+
+	# Turtle Blue initialization
+	# instantiate a new turtle object 
+	# called 'Blue'
+	Blue = turtle.Turtle()
+	
+	# set pencolor as blue
+	Blue.pencolor("blue")
+	
+	# set pensize as 5
+	Blue.pensize(5)
+	
+	# set turtleshape as turtle
+	Blue.shape('turtle')
+	
+	# make the turtle invisible
+	Blue.hideturtle()
+	
+	# don't draw when turtle moves
+	Blue.penup()
+	
+	# move the turtle to a location 50 
+	# units away from Red
+	Blue.goto(pos[0]+50, pos[1])
+	
+	# make the turtle visible
+	Blue.showturtle()
+	
+	# draw when the turtle moves
+	Blue.pendown()
+
+	# variable to store whether turtles 
+	# are in screen or not
+	mT = True
+	jT = True
+
+	# loop for the game
+	while mT and jT and sameposition(Red, Blue):
+
+		# coin flip for Red
+		coinRed = random.randrange(0, 2)
+
+		# angle for Red
+		# random.randrange(0, 180)
+		angleRed = 90
+
+		# condition for left or right 
+		# based on coin
+		if coinRed == 0:
+			Red.left(angleRed)
+		else:
+			Red.right(angleRed)
+
+		# coin flip for Blue
+		coinBlue = random.randrange(0, 2)
+
+		# angle for Blue
+		# random.randrange(0, 180)
+		angleBlue = 90
+
+		# condition for left or right based
+		# on coin
+		if coinBlue == 0:
+			Blue.left(angleBlue)
+		else:
+			Blue.right(angleBlue)
+
+		# draw for Red
+		Red.forward(50)
+
+		# draw for Blue
+		Blue.forward(50)
+
+		# checking whether turtles are in the
+		# screen or not
+		mT = isInScreen(wn, Blue)
+		jT = isInScreen(wn, Red)
+
+	# set pencolor for Blue and Red as black
+	Red.pencolor("black")
+	Blue.pencolor("black")
+
+	# condition check for draw or win
+	if jT == True and mT == False:
+		# writing results
+		Red.write("Red Won", True, align="center",
+				font=("arial", 15, "bold"))
+	
+	elif mT == True and jT == False:
+		
+		# writing results
+		Blue.write("Blue Won", True, align="center",
+				font=("arial", 15, "bold"))
+	else:
+		# writing results
+		Red.write("Draw", True, align="center", 
+				font=("arial", 15, "bold"))
+		Blue.write("Draw", True, align="center", 
+				font=("arial", 15, "bold"))
+
+	# exit on close
+	wn.exitonclick()
+
+
+# Calling main function
+main()
