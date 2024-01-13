@@ -12,6 +12,7 @@ content = s.find_all('p')
 string = str(content[2])
 district_list=[]
 district_dict=dict()
+city_map = dict()
 lst = string.split('\n')[1:-1]
 for line in lst:
     input_string = line
@@ -21,6 +22,7 @@ for line in lst:
         result_tuple = (city, district)
         district_list.append(unidecode(district).lower())
         district_dict[unidecode(district).lower()] = city
+        city_map[unidecode(city).lower()]=city
     else:
         line = ()
 
@@ -39,8 +41,19 @@ for line in lst:
         result_tuple = (city, district)
         district_list.append(unidecode(district).lower())
         district_dict[unidecode(district).lower()] = city
+        city_map[unidecode(city).lower()]=city
     else:
         line = ()
 
 # print(district_list)
 # print(district_dict)
+# print(city_map)
+        
+import pandas as pd 
+
+df = pd.read_csv('da_nang_data.csv')
+avenues_list = df.iloc[:,1].to_list()
+for i in range (len(avenues_list)):
+    temp = ' '.join(avenues_list[i].split('\xa0'))
+    avenues_list[i] = unidecode(temp).lower()
+# print(avenues_list)
