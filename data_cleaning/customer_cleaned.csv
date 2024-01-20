@@ -5,7 +5,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000000081,1999-11-08,Nam, truong chinh,KH0104|0293,student,economics,24,Quận Cẩm Lệ,Đà Nẵng
 0000000098,1994-10-01,Nam,cam le,KH0104|40580,blue collar,health service,29,Quận Cẩm Lệ,Đà Nẵng
 0000000109,1999-05-05,Nam,tam thuan,KH0104|0191,student,education,24,Quận Thanh Khê,Đà Nẵng
-0000000221.,1993-01-16,Nam,cam le,KH0104|2742,blue collar,construction,30,Quận Cẩm Lệ,Đà Nẵng
+0000000221.,1993-01-16,Nam,cam le,KH0104|2742,blue collar,construction,31,Quận Cẩm Lệ,Đà Nẵng
 0000000228,1995-11-09,Nam,ngu hanh son,,specialist,health service,28,Quận Ngũ Hành Sơn,Đà Nẵng
 0000000229,1992-01-14,Nam,le dinh duong,KH0104|2716,white collar,economics,32,Quận Hải Châu,Đà Nẵng
 0000000266,1995-01-01,Nam, le duan,KH0104|0044,blue collar,social service,29,Others,
@@ -129,7 +129,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000010821,1996-11-06,Nam, ngo gia tu,KH0104|16269,blue collar,government agent,27,Quận Hải Châu,Đà Nẵng
 0000010832,1996-04-17,Nam,thanh khe,KH0104|34251,white collar,health service,27,Quận Thanh Khê,Đà Nẵng
 0000010842,2000-09-08,Nam,hai chau,KH0104|16446,teenager,,23,Quận Hải Châu,Đà Nẵng
-0000010878,1994-01-19,Nữ,ngu hanh son,KH0104|17079,blue collar,social service,29,Quận Ngũ Hành Sơn,Đà Nẵng
+0000010878,1994-01-19,Nữ,ngu hanh son,KH0104|17079,blue collar,social service,30,Quận Ngũ Hành Sơn,Đà Nẵng
 0000010884,1994-04-10,Nữ,hoa vang,KH0104|17078,specialist,social service,29,Huyện Hòa Vang,Đà Nẵng
 0000010926,1992-05-29,Nữ,son tra,KH0104|17049,white collar,education,31,Quận Sơn Trà,Đà Nẵng
 0000010931,1988-09-10,Nam,van cao,KH0104|17423,specialist,computer,35,Others,
@@ -185,7 +185,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000012074,1993-06-10,Nam,lien chieu,KH0104|22506,blue collar,economics,30,Quận liên chiều,Đà Nẵng
 0000012084,1998-01-02,Nữ,hai chau,KH0104|26682,student,finance,26,Quận Hải Châu,Đà Nẵng
 0000012090,1996-09-17,Nữ,lien chieu,KH0104|25929,specialist,government agent,27,Quận liên chiều,Đà Nẵng
-0000012091,2000-01-16,Nữ,lien chieu,KH0104|26831,teenager,,23,Quận liên chiều,Đà Nẵng
+0000012091,2000-01-16,Nữ,lien chieu,KH0104|26831,teenager,,24,Quận liên chiều,Đà Nẵng
 0000012109,1993-07-20,Nam,ly thai to da nang,KH0104|22500,white collar,education,30,Others,Đà Nẵng
 0000012138,1990-10-15,Nam,lien chieu,KH0104|27547,blue collar,engineering,33,Quận liên chiều,Đà Nẵng
 0000012146,1996-06-22,Nữ,hoa vang,KH0104|26652,specialist,health service,27,Huyện Hòa Vang,Đà Nẵng
@@ -282,7 +282,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000014321,1991-11-25,Nữ,son tra,KH0104|21179,white collar,computer,32,Quận Sơn Trà,Đà Nẵng
 0000014343,1997-04-14,Nữ,son tra,KH0104|21084,student,government agent,26,Quận Sơn Trà,Đà Nẵng
 0000014351,1996-06-22,Nam,hai chau,,blue collar,education,27,Quận Hải Châu,Đà Nẵng
-0000014370,1996-01-20,Nữ,gmail.com,KH0104|21141,blue collar,education,27,Others,
+0000014370,1996-01-20,Nữ,gmail.com,KH0104|21141,blue collar,education,28,Others,
 0000014371,1999-05-07,Nữ,hoa vang,KH0104|21136,student,engineering,24,Huyện Hòa Vang,Đà Nẵng
 0000014430,1996-08-28,Nam,hoa vang,KH0104|21337,blue collar,health service,27,Huyện Hòa Vang,Đà Nẵng
 0000014431,1997-08-28,Nam,hoa vang,KH0104|21338,student,finance,26,Huyện Hòa Vang,Đà Nẵng
@@ -318,7 +318,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000020449,1996-06-13,Nam,dong ki,KH0104|6608,blue collar,finance,27,Others,
 0000020467,2001-05-08,Nữ,hai chau,KH0104|12629,teenager,,22,Quận Hải Châu,Đà Nẵng
 0000020528,1988-01-02,Nam,hai chau,KH0104|9277,specialist,health service,36,Quận Hải Châu,Đà Nẵng
-0000020540,1997-01-15,Nam,quang tri,KH0104|6547,student,government agent,26,Others,Quảng Trị
+0000020540,1997-01-15,Nam,quang tri,KH0104|6547,student,government agent,27,Others,Quảng Trị
 0000020596,1998-06-02,Nữ,nguyen van hue,KH0104|6582,student,government agent,25,Others,
 0000020597,1997-04-18,Nam,hai chau,KH0104|6567,student,education,26,Quận Hải Châu,Đà Nẵng
 0000020599,1992-12-28,Nam,tran cao van,KH0104|6554,blue collar,health service,31,Quận Thanh Khê,Đà Nẵng
@@ -375,7 +375,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000022728,2003-05-18,Nam,doan nhu hai,KH0104|7864,teenager,,20,Others,
 0000022758,1994-10-20,Nữ,hoa minh,KH0104|8129,specialist,health service,29,Quận liên chiều,Đà Nẵng
 0000022779,2003-04-26,Nữ,a hoa minh,KH0104|8107,teenager,,20,Quận liên chiều,Đà Nẵng
-0000022793,1996-01-20,Nam,quang nam,KH0104|7918,blue collar,engineering,27,Others,Quảng Nam
+0000022793,1996-01-20,Nam,quang nam,KH0104|7918,blue collar,engineering,28,Others,Quảng Nam
 0000022809,1997-02-17,Nam, tran cao van,KH0104|6682,student,computer,26,Quận Thanh Khê,Đà Nẵng
 0000022849,1995-05-10,Nam,my phuoc chu,KH0104|7199,blue collar,health service,28,Others,
 0000022854,2005-11-30,Nữ,tran cao van da nang,KH0104|6809,teenager,,18,Quận Thanh Khê,Đà Nẵng
@@ -399,7 +399,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000023349,2000-09-19,Nam,cam le,,teenager,,23,Quận Cẩm Lệ,Đà Nẵng
 0000023355,2003-06-17,Nam,thai thi boi,KH0104|7422,teenager,,20,Quận Thanh Khê,Đà Nẵng
 0000023367,1994-05-12,Nam,son tra,KH0104|7560,white collar,social service,29,Quận Sơn Trà,Đà Nẵng
-0000023372,1992-01-16,Nữ,que son,KH0104|7612,specialist,construction,31,Others,Quảng Nam
+0000023372,1992-01-16,Nữ,que son,KH0104|7612,specialist,construction,32,Others,Quảng Nam
 0000023378,1995-06-17,Nam,hoa khanh,KH0104|12070,blue collar,engineering,28,Quận liên chiều,Đà Nẵng
 0000023384,1997-08-21,Nam,tran cao van,KH0104|12031,student,education,26,Quận Thanh Khê,Đà Nẵng
 0000023431,1988-10-29,Nam, tran cao van,KH|18435,specialist,computer,35,Quận Thanh Khê,Đà Nẵng
@@ -414,7 +414,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000023673,1997-11-28,Nam,hoa khanh,KH0104|8111,student,engineering,26,Quận liên chiều,Đà Nẵng
 0000023761,1997-04-23,Nữ,ngu hanh son,KH0104|8053,student,social service,26,Quận Ngũ Hành Sơn,Đà Nẵng
 0000023815,1996-01-12,Nam,nguyen chi thanh,KH0104|16978,blue collar,computer,28,Quận Hải Châu,Đà Nẵng
-0000023818,1992-01-16,Nữ,cam le,KH0104|18148,blue collar,engineering,31,Quận Cẩm Lệ,Đà Nẵng
+0000023818,1992-01-16,Nữ,cam le,KH0104|18148,blue collar,engineering,32,Quận Cẩm Lệ,Đà Nẵng
 0000023970,1994-04-27,Nam,dao tan,KH0104|6827,white collar,government agent,29,Others,
 0000023971,2005-05-26,Nữ,tran cao van ,KH0104|7338,teenager,,18,Quận Thanh Khê,Đà Nẵng
 0000023995,2002-07-15,Nữ,hung vuong ,KH0104|7468,teenager,,21,Quận Thanh Khê,Đà Nẵng
@@ -455,7 +455,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000024870,1990-06-30,Nam,hoa vang,KH0104|24554,specialist,construction,33,Huyện Hòa Vang,Đà Nẵng
 0000024871,2002-04-01,Nữ,le do,KH0104|12542,teenager,,21,Quận Thanh Khê,Đà Nẵng
 0000024908,1991-07-10,Nam,ngu hanh son,KH0104|12499,blue collar,government agent,32,Quận Ngũ Hành Sơn,Đà Nẵng
-0000024921,2000-01-20,Nữ,cam le,KH0104|12515,teenager,,23,Quận Cẩm Lệ,Đà Nẵng
+0000024921,2000-01-20,Nữ,cam le,KH0104|12515,teenager,,24,Quận Cẩm Lệ,Đà Nẵng
 0000024980,2004-12-17,Nữ,nguyen tat thanh ,KH0104|13928,teenager,,19,Quận liên chiều,Đà Nẵng
 0000024994,2002-12-05,Nam, hoang van thai ,KH0104|13908,teenager,,21,Quận liên chiều,Đà Nẵng
 0000025019,1998-12-14,Nữ,lien chieu,KH0104|9457,student,economics,25,Quận liên chiều,Đà Nẵng
@@ -583,7 +583,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000028008,1995-03-02,Nam,cu chinh lan,KH0104|12786,specialist,social service,28,Others,
 0000028027,1996-11-09,Nam,thanh duyen,KH0104|12732,white collar,health service,27,Others,
 0000028029,1995-02-17,Nam,cu chinh lan,KH0104|12722,blue collar,economics,28,Others,
-0000028035,1990-01-20,Nữ,hoa vang,KH0104|12765,blue collar,engineering,33,Huyện Hòa Vang,Đà Nẵng
+0000028035,1990-01-20,Nữ,hoa vang,KH0104|12765,blue collar,engineering,34,Huyện Hòa Vang,Đà Nẵng
 0000028039,2001-01-29,Nữ,hai chau,KH0104|12753,teenager,,22,Quận Hải Châu,Đà Nẵng
 0000028047,1999-09-27,Nữ,ngu hanh son,KH0104|12687,student,social service,24,Quận Ngũ Hành Sơn,Đà Nẵng
 0000028061,1988-02-06,Nam,cam le,KH0104|12833,specialist,education,35,Quận Cẩm Lệ,Đà Nẵng
@@ -595,7 +595,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000028158,2000-09-18,Nam,nguyen dinh tuu,KH0104|12594,teenager,,23,Others,
 0000028181,2001-05-27,Nữ,lien chieu,KH0104|12556,teenager,,22,Quận liên chiều,Đà Nẵng
 0000028185,1997-07-20,Nam,hoa khanh,KH0104|12534,student,government agent,26,Quận liên chiều,Đà Nẵng
-0000028217,1986-01-17,Nam,hoang hoa tham,KH0104|13693,white collar,economics,37,Others,
+0000028217,1986-01-17,Nam,hoang hoa tham,KH0104|13693,white collar,economics,38,Others,
 0000028219,1994-08-06,Nam,quang nam,,blue collar,health service,29,Others,Quảng Nam
 0000028257,2000-10-05,Nữ,nguyen phuoc cuong,KH0104|13762,teenager,,23,Quận Thanh Khê,Đà Nẵng
 0000028259,1993-10-10,Nữ,hoa vang,KH0104|13765,blue collar,engineering,30,Huyện Hòa Vang,Đà Nẵng
@@ -692,7 +692,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000040333,1997-11-26,Nữ,hoa phat,KH0104|4720,student,economics,26,Quận Cẩm Lệ,Đà Nẵng
 0000040345,1996-02-08,Nam,quang nam,KH0104|3947,white collar,finance,27,Others,Quảng Nam
 0000040358,1995-11-12,Nữ,quan hai chau,KH0104|3802,specialist,finance,28,Quận Hải Châu,Đà Nẵng
-0000040435,1997-01-18,Nam,dak lak,KH0104|4095,student,health service,26,Others,Đắk Lắk
+0000040435,1997-01-18,Nam,dak lak,KH0104|4095,student,health service,27,Others,Đắk Lắk
 0000040461,1997-06-09,Nữ,phan thanh,KH0104|5182,student,engineering,26,Others,
 0000040493,1996-05-10,Nữ,hai chau,KH0104|4971,blue collar,engineering,27,Quận Hải Châu,Đà Nẵng
 0000040515,1997-09-23,Nam,truong chinh,KH0104|5019,student,finance,26,Quận Cẩm Lệ,Đà Nẵng
@@ -742,7 +742,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0000041542,1985-07-14,Nữ,nguyen trich,KH0104|1525,white collar,health service,38,Others,
 0000041553,1994-04-19,Nữ,ha huy tap,KH0104|1351,blue collar,finance,29,Quận Thanh Khê,Đà Nẵng
 0000041573,1996-10-19,Nam,lien chieu,KH0104|41174,white collar,computer,27,Quận liên chiều,Đà Nẵng
-0000041597,1998-01-17,Nam,ly tu trong,KH0104|1387,student,social service,25,Quận Hải Châu,Đà Nẵng
+0000041597,1998-01-17,Nam,ly tu trong,KH0104|1387,student,social service,26,Quận Hải Châu,Đà Nẵng
 0000041620,2000-02-26,Nam,cu chinh lan,KH0104|2469,teenager,,23,Others,
 0000041640,1996-04-10,Nam,pham nhu xuong,KH0104|12411,white collar,health service,27,Others,
 0000041677,1979-02-13,Nữ,dien bien phu,KH0104|2611,white collar,government agent,44,Others,Điện Biên
@@ -990,7 +990,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001006156,2000-04-05,Nữ,hai chau,KH0104|24079,teenager,,23,Quận Hải Châu,Đà Nẵng
 0001006162,2003-08-27,Nữ,hai chau,KH0104|24065,teenager,,20,Quận Hải Châu,Đà Nẵng
 0001006167,1993-10-08,Nam,hai chau,KH0104|24342,specialist,health service,30,Quận Hải Châu,Đà Nẵng
-0001006180,2001-01-17,Nữ,hoa khanh,KH0104|24317,teenager,,22,Quận liên chiều,Đà Nẵng
+0001006180,2001-01-17,Nữ,hoa khanh,KH0104|24317,teenager,,23,Quận liên chiều,Đà Nẵng
 0001006181,2000-05-19,Nữ,ho quy ly,KH0104|24318,teenager,,23,Others,
 0001006196,2001-11-08,Nữ,hai chau,KH0104|24316,teenager,,22,Quận Hải Châu,Đà Nẵng
 0001006230,2003-02-27,Nữ,tran cao van dn,KH0104|24091,teenager,,20,Quận Thanh Khê,Đà Nẵng
@@ -1035,8 +1035,8 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001006840,1999-07-31,Nữ,ngu hanh son,KH0104|27015,student,health service,24,Quận Ngũ Hành Sơn,Đà Nẵng
 0001006841,1999-12-26,Nữ,hai chau,KH0104|27012,student,social service,24,Quận Hải Châu,Đà Nẵng
 0001006844,1998-03-07,Nữ,ngu hanh son,KH0104|27030,student,construction,25,Quận Ngũ Hành Sơn,Đà Nẵng
-0001006866,2001-01-16,Nữ,son tra,KH0104|26805,teenager,,22,Quận Sơn Trà,Đà Nẵng
-0001006872,1991-01-17,Nam,le ngo cat,,white collar,economics,32,Others,
+0001006866,2001-01-16,Nữ,son tra,KH0104|26805,teenager,,23,Quận Sơn Trà,Đà Nẵng
+0001006872,1991-01-17,Nam,le ngo cat,,white collar,economics,33,Others,
 0001006914,1999-11-30,Nữ,lien chieu,KH0104|26817,student,computer,24,Quận liên chiều,Đà Nẵng
 0001006946,2000-01-27,Nam,son tra,KH0104|26740,teenager,,23,Quận Sơn Trà,Đà Nẵng
 0001006981,2000-03-05,Nam,hai chau,KH0104|27398,teenager,,23,Quận Hải Châu,Đà Nẵng
@@ -1051,7 +1051,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001007149,1993-10-11,Nữ,lien chieu,KH0104|24992,specialist,economics,30,Quận liên chiều,Đà Nẵng
 0001007160,1996-10-29,Nữ,hoa vang,KH0104|28832,white collar,computer,27,Huyện Hòa Vang,Đà Nẵng
 0001007163,1997-05-05,Nam,ngu hanh son,KH0104|28763,student,social service,26,Quận Ngũ Hành Sơn,Đà Nẵng
-0001007166,2000-01-15,Nam,q thanh khe,KH0104|28854,teenager,,23,Quận Thanh Khê,Đà Nẵng
+0001007166,2000-01-15,Nam,q thanh khe,KH0104|28854,teenager,,24,Quận Thanh Khê,Đà Nẵng
 0001007193,1996-04-20,Nam,ha son,KH0104|28791,specialist,education,27,Huyện Hòa Vang,Đà Nẵng
 0001007195,1997-10-07,Nữ,hoa phuoc,KH0104|28788,student,government agent,26,Huyện Hòa Vang,Đà Nẵng
 0001007196,2002-05-12,Nữ,hoang van thu,KH0104|28783,teenager,,21,Quận Hải Châu,Đà Nẵng
@@ -1174,7 +1174,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001013513,2003-07-17,Nam,hoa vang,KH0104|25251,teenager,,20,Huyện Hòa Vang,Đà Nẵng
 0001013523,1993-01-12,Nam,hai chau,KH0104|25267,white collar,computer,31,Quận Hải Châu,Đà Nẵng
 0001013532,1993-09-14,Nữ,ngu hanh son,KH0104|25012,specialist,construction,30,Quận Ngũ Hành Sơn,Đà Nẵng
-0001013535,1991-01-20,Nam,hai chau,KH0104|24955,blue collar,health service,32,Quận Hải Châu,Đà Nẵng
+0001013535,1991-01-20,Nam,hai chau,KH0104|24955,blue collar,health service,33,Quận Hải Châu,Đà Nẵng
 0001013563,1997-04-26,Nữ,hai chau,KH0104|25072,student,health service,26,Quận Hải Châu,Đà Nẵng
 0001013567,1999-08-10,Nữ,son tra,KH0104|25036,student,government agent,24,Quận Sơn Trà,Đà Nẵng
 0001013579,2001-02-04,Nam, ngo quyen dn,KH0104|24789,teenager,,22,Quận Sơn Trà,Đà Nẵng
@@ -1266,7 +1266,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001016190,2006-12-25,Nữ,hoa khanh,KH0104|37136,teenager,,17,Quận liên chiều,Đà Nẵng
 0001016196,2002-10-24,Nam,lien chieu,KH0104|37059,teenager,,21,Quận liên chiều,Đà Nẵng
 0001016211,1994-03-15,Nam,ngu hanh son,KH0104|37253,specialist,health service,29,Quận Ngũ Hành Sơn,Đà Nẵng
-0001016255,2001-01-20,Nữ,son tra,KH0104|27289,teenager,,22,Quận Sơn Trà,Đà Nẵng
+0001016255,2001-01-20,Nữ,son tra,KH0104|27289,teenager,,23,Quận Sơn Trà,Đà Nẵng
 0001016266,1999-07-29,Nữ,son tra,KH0104|27148,student,government agent,24,Quận Sơn Trà,Đà Nẵng
 0001016276,1995-07-03,Nam,hoa vang,KH0104|27162,white collar,economics,28,Huyện Hòa Vang,Đà Nẵng
 0001016280,2000-02-28,Nữ,hai chau,KH0104|27503,teenager,,23,Quận Hải Châu,Đà Nẵng
@@ -1313,7 +1313,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001023259,1995-11-21,Nam,hoi an ,,white collar,computer,28,Others,Quảng Nam
 0001023267,1991-02-23,Nữ,quan son tra,KH0104|31652,white collar,engineering,32,Quận Sơn Trà,Đà Nẵng
 0001023278,1995-08-20,Nam,cam le,KH0104|31429,blue collar,economics,28,Quận Cẩm Lệ,Đà Nẵng
-0001023282,1992-01-20,Nữ,quan thanh khe,KH0104|31415,specialist,construction,31,Quận Thanh Khê,Đà Nẵng
+0001023282,1992-01-20,Nữ,quan thanh khe,KH0104|31415,specialist,construction,32,Quận Thanh Khê,Đà Nẵng
 0001023290,2004-03-02,Nam,son tra,KH0104|31448,teenager,,19,Quận Sơn Trà,Đà Nẵng
 0001023291,1995-04-09,Nam,hue,KH0104|31449,blue collar,construction,28,Others,Long An
 0001023311,1965-11-14,Nam,hai chau,KH0104|32404,specialist,finance,58,Quận Hải Châu,Đà Nẵng
@@ -1340,7 +1340,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001023538,1994-07-08,Nam,hoa vang,KH0104|30041,specialist,construction,29,Huyện Hòa Vang,Đà Nẵng
 0001023541,1990-10-24,Nam,quan thanh khe,KH0104|36031,blue collar,computer,33,Quận Thanh Khê,Đà Nẵng
 0001023563,2001-11-29,Nam,ngu hanh son,KH0104|38359,teenager,,22,Quận Ngũ Hành Sơn,Đà Nẵng
-0001023567,2001-01-20,Nữ,son tra,KH0104|38255,teenager,,22,Quận Sơn Trà,Đà Nẵng
+0001023567,2001-01-20,Nữ,son tra,KH0104|38255,teenager,,23,Quận Sơn Trà,Đà Nẵng
 0001023573,2001-03-29,Nữ,quan son tra,KH0104|38265,teenager,,22,Quận Sơn Trà,Đà Nẵng
 0001023576,1998-12-02,Nam,ngu hanh son ,KH0104|36240,student,construction,25,Quận Ngũ Hành Sơn,Đà Nẵng
 0001023600,1995-11-02,Nam,son tra,KH0104|36088,blue collar,health service,28,Quận Sơn Trà,Đà Nẵng
@@ -1365,7 +1365,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001023800,2005-02-25,Nữ, le do,KH0104|11087,teenager,,18,Quận Thanh Khê,Đà Nẵng
 0001023807,1980-12-19,Nam,hai chau,KH0104|34205,specialist,economics,43,Quận Hải Châu,Đà Nẵng
 0001023815,1980-03-08,Nữ,q thanh khe,KH0104|34143,blue collar,health service,43,Quận Thanh Khê,Đà Nẵng
-0001023817,1997-01-17,Nữ,ngu hanh son,KH0104|34178,student,finance,26,Quận Ngũ Hành Sơn,Đà Nẵng
+0001023817,1997-01-17,Nữ,ngu hanh son,KH0104|34178,student,finance,27,Quận Ngũ Hành Sơn,Đà Nẵng
 0001023849,1993-10-25,Nam,quan cam le,KH0104|34018,specialist,government agent,30,Quận Cẩm Lệ,Đà Nẵng
 0001023861,1997-09-20,Nam,quan thanh khe,KH0104|33961,student,computer,26,Quận Thanh Khê,Đà Nẵng
 0001023879,1994-09-24,Nữ,son tra,KH0104|34182,white collar,construction,29,Quận Sơn Trà,Đà Nẵng
@@ -1374,7 +1374,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001023895,1995-02-01,Nữ,q ngu hanh son,KH0104|34165,specialist,finance,28,Quận Ngũ Hành Sơn,Đà Nẵng
 0001023909,1992-11-29,Nam,cam le,KH0104|30385,blue collar,economics,31,Quận Cẩm Lệ,Đà Nẵng
 0001023914,1996-04-05,Nữ,hai phong,KH0104|2160,white collar,social service,27,Quận Thanh Khê,Đà Nẵng
-0001023923,1997-01-19,Nữ,hai chau,KH0104|30459,student,social service,26,Quận Hải Châu,Đà Nẵng
+0001023923,1997-01-19,Nữ,hai chau,KH0104|30459,student,social service,27,Quận Hải Châu,Đà Nẵng
 0001023931,2000-09-15,Nam,cam le,KH0104|30605,teenager,,23,Quận Cẩm Lệ,Đà Nẵng
 0001023940,1998-06-27,Nam,lien chieu,KH0104|30472,student,education,25,Quận liên chiều,Đà Nẵng
 0001023949,1991-12-02,Nam,hai chau,KH0104|30682,blue collar,government agent,32,Quận Hải Châu,Đà Nẵng
@@ -1460,7 +1460,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001029825,1997-06-25,Nam,quan hai chau,KH0104|31576,student,education,26,Quận Hải Châu,Đà Nẵng
 0001029826,1998-01-12,Nữ,quang nam,KH0104|31645,student,economics,26,Others,Quảng Nam
 0001029827,1996-02-03,Nữ,quan thanh khe,KH0104|31646,white collar,finance,27,Quận Thanh Khê,Đà Nẵng
-0001029922,2000-01-18,Nữ,thanh khe,KH0104|31879,teenager,,23,Quận Thanh Khê,Đà Nẵng
+0001029922,2000-01-18,Nữ,thanh khe,KH0104|31879,teenager,,24,Quận Thanh Khê,Đà Nẵng
 0001029942,1997-03-28,Nữ,son tra,KH0104|31865,student,finance,26,Quận Sơn Trà,Đà Nẵng
 0001029975,1999-09-19,Nam,le co,,student,engineering,24,Others,
 0001029993,1998-02-27,Nữ,son tra,KH0104|31892,student,finance,25,Quận Sơn Trà,Đà Nẵng
@@ -1471,11 +1471,11 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001030155,1970-04-10,Nữ,ngu hanh son,KH0104|31660,blue collar,engineering,53,Quận Ngũ Hành Sơn,Đà Nẵng
 0001030168,1991-09-22,Nam,hoang van thu dn,KH0104|31710,specialist,construction,32,Quận Hải Châu,Đà Nẵng
 0001030170,2000-11-07,Nữ,hunhf thuc khang dn,KH0104|31708,teenager,,23,Others,
-0001030181,1996-01-20,Nữ,cam le,KH0104|31518,specialist,finance,27,Quận Cẩm Lệ,Đà Nẵng
+0001030181,1996-01-20,Nữ,cam le,KH0104|31518,specialist,finance,28,Quận Cẩm Lệ,Đà Nẵng
 0001030197,2000-09-28,Nam,nguyen chich dn,KH0104|31389,teenager,,23,Others,
 0001052844,1992-12-26,Nữ,hai chau,KH0104|28923,blue collar,education,31,Quận Hải Châu,Đà Nẵng
 0001063273,1999-06-22,Nam,,KH0107|5326,student,engineering,24,Others,
-0001067408,2003-01-20,Nữ,lien chieu,KH0104|41744,teenager,,20,Quận liên chiều,Đà Nẵng
+0001067408,2003-01-20,Nữ,lien chieu,KH0104|41744,teenager,,21,Quận liên chiều,Đà Nẵng
 0001067418,1999-02-27,Nam,lien chieu,KH0104|34523,student,engineering,24,Quận liên chiều,Đà Nẵng
 0001067446,1999-10-06,Nữ,phan ke binh,KH0104|2284,student,finance,24,Others,
 0001067451,1998-01-09,Nam,cam le,KH0104|34599,student,finance,26,Quận Cẩm Lệ,Đà Nẵng
@@ -1510,7 +1510,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001068121,1992-01-05,Nam,quan hai chau,KH0104|34885,specialist,economics,32,Quận Hải Châu,Đà Nẵng
 0001068129,2000-01-14,Nữ,quan cam le,KH0104|34267,teenager,,24,Quận Cẩm Lệ,Đà Nẵng
 0001068137,1995-10-12,Nữ,quan son tra,KH0104|34271,blue collar,finance,28,Quận Sơn Trà,Đà Nẵng
-0001068145,1995-01-16,Nữ,q lien chieu,KH0104|34298,white collar,government agent,28,Quận liên chiều,Đà Nẵng
+0001068145,1995-01-16,Nữ,q lien chieu,KH0104|34298,white collar,government agent,29,Quận liên chiều,Đà Nẵng
 0001068407,2000-02-22,Nữ,lien chieu,KH0104|35277,teenager,,23,Quận liên chiều,Đà Nẵng
 0001068426,1998-08-06,Nữ,q. thanh khe,KH0104|35632,student,economics,25,Others,
 0001068431,1991-07-08,Nam,lien chieu,KH0104|35626,white collar,health service,32,Quận liên chiều,Đà Nẵng
@@ -1785,7 +1785,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001080725,1999-06-29,Nam,thanh khe,KH0104|37848,student,social service,24,Quận Thanh Khê,Đà Nẵng
 0001080738,1998-10-30,Nữ,quan thanh khe,KH0104|38059,student,construction,25,Quận Thanh Khê,Đà Nẵng
 0001080741,1997-04-07,Nữ,quan thanh khe,KH0104|37970,student,social service,26,Quận Thanh Khê,Đà Nẵng
-0001080769,1999-01-16,Nữ,hai chau,KH0104|37887,student,computer,24,Quận Hải Châu,Đà Nẵng
+0001080769,1999-01-16,Nữ,hai chau,KH0104|37887,student,computer,25,Quận Hải Châu,Đà Nẵng
 0001080784,1993-02-10,Nữ,thanh khe,KH0104|37902,blue collar,social service,30,Quận Thanh Khê,Đà Nẵng
 0001080785,1998-02-28,Nữ,son tra,KH0104|37898,student,finance,25,Quận Sơn Trà,Đà Nẵng
 0001080790,1997-04-21,Nam,hai chau,KH0104|38028,student,health service,26,Quận Hải Châu,Đà Nẵng
@@ -1813,7 +1813,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001080956,1992-09-15,Nữ,hoa khanh,KH0104|38195,blue collar,economics,31,Quận liên chiều,Đà Nẵng
 0001080965,1998-09-26,Nam,son tra,KH0104|38020,student,government agent,25,Quận Sơn Trà,Đà Nẵng
 0001080969,2001-07-28,Nữ,hoa vang,KH0104|38184,teenager,,22,Huyện Hòa Vang,Đà Nẵng
-0001080978,1998-01-18,Nam,hoa khanh,KH0104|38172,student,computer,25,Quận liên chiều,Đà Nẵng
+0001080978,1998-01-18,Nam,hoa khanh,KH0104|38172,student,computer,26,Quận liên chiều,Đà Nẵng
 0001080999,1994-10-11,Nam, quan son tra,KH0104|38114,specialist,health service,29,Quận Sơn Trà,Đà Nẵng
 0001081011,1995-06-01,Nữ,q hoa vang,KH0104|37917,blue collar,education,28,Others,
 0001081025,1997-05-14,Nữ,hoa vang,KH0104|37617,student,finance,26,Huyện Hòa Vang,Đà Nẵng
@@ -2026,7 +2026,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001083797,1998-03-16,Nam,quan hai chau,KH0104|39835,student,social service,25,Quận Hải Châu,Đà Nẵng
 0001083802,1996-04-09,Nam,ngu hanh son,KH0104|39905,blue collar,construction,27,Quận Ngũ Hành Sơn,Đà Nẵng
 0001083814,1998-12-11,Nữ,cam le,KH0104|39992,student,social service,25,Quận Cẩm Lệ,Đà Nẵng
-0001083818,1989-01-16,Nam,cam le,KH0104|17735,blue collar,government agent,34,Quận Cẩm Lệ,Đà Nẵng
+0001083818,1989-01-16,Nam,cam le,KH0104|17735,blue collar,government agent,35,Quận Cẩm Lệ,Đà Nẵng
 0001083837,1995-01-06,Nữ,lien chieu,KH0104|40460,specialist,computer,29,Quận liên chiều,Đà Nẵng
 0001083840,2000-05-20,Nữ,ngu hanh son,KH0104|27200,teenager,,23,Quận Ngũ Hành Sơn,Đà Nẵng
 0001083841,2000-06-08,Nam,hai chau,KH0104|40428,teenager,,23,Quận Hải Châu,Đà Nẵng
@@ -2094,7 +2094,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001119260,1997-11-17,Nữ,ngu hanh son,KH0104|44342,student,engineering,26,Quận Ngũ Hành Sơn,Đà Nẵng
 0001119262,2003-07-27,Nữ,cam le,KH0104|44340,teenager,,20,Quận Cẩm Lệ,Đà Nẵng
 0001119294,2000-09-08,Nữ,hai chau,KH0104|37686,teenager,,23,Quận Hải Châu,Đà Nẵng
-0001119295,2001-01-15,Nữ,mai lao bang,KH0104|6125,teenager,,22,Others,
+0001119295,2001-01-15,Nữ,mai lao bang,KH0104|6125,teenager,,23,Others,
 0001119324,1991-09-04,Nam,quang trung,KH0104|29242,white collar,education,32,Quận Hải Châu,Đà Nẵng
 0001119325,2000-04-20,Nữ,thanh khe,KH0104|44496,teenager,,23,Quận Thanh Khê,Đà Nẵng
 0001119374,2000-09-25,Nam,quang nam,KH0104|44414,teenager,,23,Others,Quảng Nam
@@ -2192,7 +2192,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001120514,2005-02-05,Nữ,hoa vang,KH0104|20496,teenager,,18,Huyện Hòa Vang,Đà Nẵng
 0001120519,1993-08-12,Nam,tien son,KH0104|26120,white collar,health service,30,Others,
 0001120534,1996-11-28,Nam,son tra,KH0104|37380,white collar,social service,27,Quận Sơn Trà,Đà Nẵng
-0001120542,1999-01-18,Nam,cam le,KH0104|45115,student,computer,24,Quận Cẩm Lệ,Đà Nẵng
+0001120542,1999-01-18,Nam,cam le,KH0104|45115,student,computer,25,Quận Cẩm Lệ,Đà Nẵng
 0001120568,2004-09-13,Nam,quan thanh khe dn,KH0104|45233,teenager,,19,Quận Thanh Khê,Đà Nẵng
 0001120577,2000-07-21,Nữ,quan thanh khe dn,KH0104|45270,teenager,,23,Quận Thanh Khê,Đà Nẵng
 0001120586,2002-08-25,Nữ,quan lien chieu dn,KH0104|45359,teenager,,21,Quận liên chiều,Đà Nẵng
@@ -2236,7 +2236,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001120920,1999-12-07,Nữ,hoi an,KH0104|44084,student,education,24,Others,Quảng Nam
 0001120972,1980-11-06,Nam,hai chau,KH0104|44003,specialist,health service,43,Quận Hải Châu,Đà Nẵng
 0001120977,2001-05-11,Nam,hoa khanh,KH0104|20255,teenager,,22,Quận liên chiều,Đà Nẵng
-0001120993,1994-01-18,Nữ,quan hai chau,KH0104|43996,blue collar,construction,29,Quận Hải Châu,Đà Nẵng
+0001120993,1994-01-18,Nữ,quan hai chau,KH0104|43996,blue collar,construction,30,Quận Hải Châu,Đà Nẵng
 0001121005,1996-01-30,Nữ,luong nhu hoc,KH0104|0936,blue collar,economics,27,Others,
 0001121007,1990-12-01,Nữ,quan thanh khe dn,KH0104|42942,white collar,education,33,Quận Thanh Khê,Đà Nẵng
 0001121009,1993-10-10,Nam,quan lien chieu dn,KH0104|42952,specialist,computer,30,Quận liên chiều,Đà Nẵng
@@ -2262,7 +2262,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001121361,1999-02-07,Nữ,thanh khe,KH0104|45177,student,construction,24,Quận Thanh Khê,Đà Nẵng
 0001121369,1999-09-04,Nữ,thanh khe,KH0104|45114,student,economics,24,Quận Thanh Khê,Đà Nẵng
 0001121382,1994-02-12,Nữ,thanh khe,KH0104|45145,white collar,economics,29,Quận Thanh Khê,Đà Nẵng
-0001121383,1998-01-19,Nữ,tran phu,KH0104|45109,student,health service,25,Quận Hải Châu,Đà Nẵng
+0001121383,1998-01-19,Nữ,tran phu,KH0104|45109,student,health service,26,Quận Hải Châu,Đà Nẵng
 0001121384,1999-01-01,Nữ,quang trung,KH0104|45108,student,social service,25,Quận Hải Châu,Đà Nẵng
 0001121393,2002-05-30,Nữ,hai chau,KH0104|45001,teenager,,21,Quận Hải Châu,Đà Nẵng
 0001121396,1999-04-15,Nữ,son tra,KH0104|44987,student,finance,24,Quận Sơn Trà,Đà Nẵng
@@ -2283,7 +2283,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001121614,1996-10-10,Nam,lien chieu,KH0104|42302,white collar,economics,27,Quận liên chiều,Đà Nẵng
 0001121616,1986-03-21,Nam,tam ky,KH0104|42256,white collar,health service,37,Others,Quảng Nam
 0001121618,1997-01-10,Nữ,hoa vang,KH0104|42282,student,social service,27,Huyện Hòa Vang,Đà Nẵng
-0001121619,1991-01-20,Nữ,thanh khe,KH0104|42286,blue collar,health service,32,Quận Thanh Khê,Đà Nẵng
+0001121619,1991-01-20,Nữ,thanh khe,KH0104|42286,blue collar,health service,33,Quận Thanh Khê,Đà Nẵng
 0001121630,1992-01-13,Nam,quan cam le,KH0104|42236,specialist,computer,32,Quận Cẩm Lệ,Đà Nẵng
 0001121636,2002-03-18,Nữ,quan hai chau,KH0104|42218,teenager,,21,Quận Hải Châu,Đà Nẵng
 0001121657,1993-11-14,Nữ,son tra,KH0104|42210,blue collar,finance,30,Quận Sơn Trà,Đà Nẵng
@@ -2301,7 +2301,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001121765,1989-10-18,Nam,hai chau,KH0104|42890,blue collar,engineering,34,Quận Hải Châu,Đà Nẵng
 0001121769,1998-01-21,Nữ,hue,KH0104|35607,student,social service,25,Others,Long An
 0001121786,1993-01-02,Nữ,son tra,KH0104|42177,specialist,government agent,31,Quận Sơn Trà,Đà Nẵng
-0001121788,1983-01-15,Nam,hai chau,KH0104|42180,blue collar,finance,40,Quận Hải Châu,Đà Nẵng
+0001121788,1983-01-15,Nam,hai chau,KH0104|42180,blue collar,finance,41,Quận Hải Châu,Đà Nẵng
 0001121799,2000-01-01,Nam,lien chieu,KH0104|42160,teenager,,24,Quận liên chiều,Đà Nẵng
 0001121807,1991-03-23,Nam,ly thai to,KH0104|11443,specialist,economics,32,Others,
 0001121827,1994-07-21,Nam,quan thanh khe,KH0104|41195,specialist,economics,29,Quận Thanh Khê,Đà Nẵng
@@ -2429,7 +2429,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001123397,1994-09-25,Nữ,quan son tra,KH0104|43776,blue collar,finance,29,Quận Sơn Trà,Đà Nẵng
 0001123398,1995-10-21,Nam,quan thanh khe,KH0104|43775,white collar,construction,28,Quận Thanh Khê,Đà Nẵng
 0001123411,1991-07-04,Nam,quan hai chau,KH0104|41791,specialist,finance,32,Quận Hải Châu,Đà Nẵng
-0001123433,1994-01-18,Nữ,quan son tra,KH0104|41831,blue collar,economics,29,Quận Sơn Trà,Đà Nẵng
+0001123433,1994-01-18,Nữ,quan son tra,KH0104|41831,blue collar,economics,30,Quận Sơn Trà,Đà Nẵng
 0001123442,1999-11-13,Nữ,cam le,KH0104|41846,student,health service,24,Quận Cẩm Lệ,Đà Nẵng
 0001123446,1990-09-17,Nam,hai chau,KH0104|41864,white collar,social service,33,Quận Hải Châu,Đà Nẵng
 0001123448,2002-12-01,Nam,thanh khe,KH0104|41827,teenager,,21,Quận Thanh Khê,Đà Nẵng
@@ -2444,7 +2444,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001123511,1985-03-01,Nam,cao xuan duc,,blue collar,government agent,38,Others,
 0001123517,2001-05-30,Nam,quan hai chau,KH0104|41939,teenager,,22,Quận Hải Châu,Đà Nẵng
 0001123519,1997-08-05,Nam,lien chieu,KH0104|42173,student,social service,26,Quận liên chiều,Đà Nẵng
-0001123569,2001-01-18,Nam,lien chieu,KH0104|41953,teenager,,22,Quận liên chiều,Đà Nẵng
+0001123569,2001-01-18,Nam,lien chieu,KH0104|41953,teenager,,23,Quận liên chiều,Đà Nẵng
 0001123575,1994-10-01,Nam,son tra,KH0104|41971,specialist,economics,29,Quận Sơn Trà,Đà Nẵng
 0001123579,1996-12-02,Nữ,ngu hanh son,KH0104|42202,specialist,government agent,27,Quận Ngũ Hành Sơn,Đà Nẵng
 0001123587,1999-09-20,Nữ,quang nam,KH0104|42623,student,finance,24,Others,Quảng Nam
@@ -2474,7 +2474,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001124399,1995-07-20,Nữ,quan hai chau,KH0104|43138,specialist,education,28,Quận Hải Châu,Đà Nẵng
 0001135002,1990-09-12,Nữ,quang nam,KH0104|51199,blue collar,engineering,33,Others,Quảng Nam
 0001135028,1997-09-29,Nam, phuong hoa quy,KH0104|46307,student,economics,26,Quận Ngũ Hành Sơn,Đà Nẵng
-0001135035,1994-01-19,Nam,quan thanh khe,KH0104|51311,specialist,economics,29,Quận Thanh Khê,Đà Nẵng
+0001135035,1994-01-19,Nam,quan thanh khe,KH0104|51311,specialist,economics,30,Quận Thanh Khê,Đà Nẵng
 0001135040,1990-06-06,Nam, thanh long,KH0104|12701,blue collar,engineering,33,Quận Cẩm Lệ,Đà Nẵng
 0001135045,1996-12-14,Nam,quan son tra,KH0104|51302,specialist,computer,27,Quận Sơn Trà,Đà Nẵng
 0001135053,1998-12-02,Nữ,hai chau,KH0104|51286,student,finance,25,Quận Hải Châu,Đà Nẵng
@@ -2527,7 +2527,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001135589,1991-07-02,Nữ,quan thanh khe,KH0104|50933,white collar,finance,32,Quận Thanh Khê,Đà Nẵng
 0001135598,1996-03-20,Nữ,quan hai chau,KH0104|50936,blue collar,education,27,Quận Hải Châu,Đà Nẵng
 0001135611,1995-01-25,Nam,lien chieu,KH0104|51580,white collar,finance,28,Quận liên chiều,Đà Nẵng
-0001135617,1997-01-19,Nam,cam le,KH0104|51574,student,computer,26,Quận Cẩm Lệ,Đà Nẵng
+0001135617,1997-01-19,Nam,cam le,KH0104|51574,student,computer,27,Quận Cẩm Lệ,Đà Nẵng
 0001135627,1992-12-09,Nam,hoa khanh,KH0104|51562,blue collar,construction,31,Quận liên chiều,Đà Nẵng
 0001135643,1999-09-28,Nam, lien chieu,KH0104|51735,student,construction,24,Quận liên chiều,Đà Nẵng
 0001135655,1998-10-14,Nam,lien chieu,KH0104|51591,student,construction,25,Quận liên chiều,Đà Nẵng
@@ -2705,7 +2705,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001137595,2003-02-26,Nữ,cam le,KH0104|49133,teenager,,20,Quận Cẩm Lệ,Đà Nẵng
 0001137604,1999-10-04,Nữ,hoa khanh,KH0104|48723,student,finance,24,Quận liên chiều,Đà Nẵng
 0001137608,1999-03-31,Nam,hoa khanh,KH0104|48729,student,health service,24,Quận liên chiều,Đà Nẵng
-0001137618,2001-01-17,Nữ,son tra,KH0104|48708,teenager,,22,Quận Sơn Trà,Đà Nẵng
+0001137618,2001-01-17,Nữ,son tra,KH0104|48708,teenager,,23,Quận Sơn Trà,Đà Nẵng
 0001137629,1999-02-17,Nữ,hai chau,KH0104|48701,student,construction,24,Quận Hải Châu,Đà Nẵng
 0001137644,1998-06-04,Nữ,hoa vang,KH0104|48674,student,computer,25,Huyện Hòa Vang,Đà Nẵng
 0001137645,1998-01-10,Nữ,quang nam,KH0104|48676,student,health service,26,Others,Quảng Nam
@@ -2746,7 +2746,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001138136,1993-10-25,Nữ,ngu hanh son,KH0104|34585,blue collar,economics,30,Quận Ngũ Hành Sơn,Đà Nẵng
 0001138141,1999-05-24,Nữ,hoa khanh,KH0104|48957,student,health service,24,Quận liên chiều,Đà Nẵng
 0001138151,2002-05-17,Nữ,cam le,KH0104|48945,teenager,,21,Quận Cẩm Lệ,Đà Nẵng
-0001138157,1994-01-19,Nam,ngu hanh son,,white collar,construction,29,Quận Ngũ Hành Sơn,Đà Nẵng
+0001138157,1994-01-19,Nam,ngu hanh son,,white collar,construction,30,Quận Ngũ Hành Sơn,Đà Nẵng
 0001138159,1998-04-16,Nữ,son tra,KH0104|48936,student,government agent,25,Quận Sơn Trà,Đà Nẵng
 0001138163,2002-07-06,Nữ,quan thanh khe,KH0104|48931,teenager,,21,Quận Thanh Khê,Đà Nẵng
 0001138181,1995-09-21,Nam,hoa khanh,KH0104|48971,blue collar,health service,28,Quận liên chiều,Đà Nẵng
@@ -2815,7 +2815,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001138935,1999-11-10,Nam,hoa vang,KH0104|48501,student,finance,24,Huyện Hòa Vang,Đà Nẵng
 0001138950,1992-10-22,Nam,quan hai chau,KH0104|48529,blue collar,government agent,31,Quận Hải Châu,Đà Nẵng
 0001138968,1996-09-06,Nữ,quang nam,KH0104|7617,blue collar,social service,27,Others,Quảng Nam
-0001138981,1996-01-20,Nam,ngu hanh son,KH0104|48665,white collar,economics,27,Quận Ngũ Hành Sơn,Đà Nẵng
+0001138981,1996-01-20,Nam,ngu hanh son,KH0104|48665,white collar,economics,28,Quận Ngũ Hành Sơn,Đà Nẵng
 0001138988,2000-12-21,Nữ,quan son tra,KH0104|48540,teenager,,23,Quận Sơn Trà,Đà Nẵng
 0001138989,1993-09-09,Nữ,quan thanh khe,KH0104|48541,specialist,computer,30,Quận Thanh Khê,Đà Nẵng
 0001138991,1996-11-15,Nữ,quan son tra,KH0104|48543,specialist,education,27,Quận Sơn Trà,Đà Nẵng
@@ -2826,7 +2826,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001139057,2000-07-15,Nữ,quan ngu hanh son,KH0104|47454,teenager,,23,Quận Ngũ Hành Sơn,Đà Nẵng
 0001139077,1985-01-27,Nam,le van long,,white collar,finance,38,Others,
 0001139092,1998-09-05,Nữ,quan son tra,KH0104|47486,student,economics,25,Quận Sơn Trà,Đà Nẵng
-0001139100,1999-01-19,Nữ,hoa vang,KH0104|47495,student,construction,24,Huyện Hòa Vang,Đà Nẵng
+0001139100,1999-01-19,Nữ,hoa vang,KH0104|47495,student,construction,25,Huyện Hòa Vang,Đà Nẵng
 0001139102,2000-12-02,Nam,hoa khanh,KH0104|47498,teenager,,23,Quận liên chiều,Đà Nẵng
 0001139134,1998-10-14,Nam,cam le,KH0104|47510,student,education,25,Quận Cẩm Lệ,Đà Nẵng
 0001139150,1990-01-03,Nam,son tra,KH0104|47534,white collar,government agent,34,Quận Sơn Trà,Đà Nẵng
@@ -2835,7 +2835,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001139169,1995-08-22,Nam,cam le,KH0104|22406,specialist,computer,28,Quận Cẩm Lệ,Đà Nẵng
 0001139186,2002-10-12,Nữ,cam le,KH0104|47570,teenager,,21,Quận Cẩm Lệ,Đà Nẵng
 0001139191,1999-02-06,Nam,hai chau,KH0104|12017,student,government agent,24,Quận Hải Châu,Đà Nẵng
-0001139237,2002-01-19,Nữ,quan thanh khe dn,KH0104|46498,teenager,,21,Quận Thanh Khê,Đà Nẵng
+0001139237,2002-01-19,Nữ,quan thanh khe dn,KH0104|46498,teenager,,22,Quận Thanh Khê,Đà Nẵng
 0001139256,2002-09-04,Nữ,lien chieu,KH0104|46644,teenager,,21,Quận liên chiều,Đà Nẵng
 0001139303,2000-12-20,Nữ,son tra dn,KH0104|46884,teenager,,23,Others,
 0001139310,2001-01-21,Nữ, nguyen huy tu,KH0104|1975,teenager,,22,Others,
@@ -2845,7 +2845,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001139350,2002-02-17,Nam,quan son tra dn,KH0104|46849,teenager,,21,Quận Sơn Trà,Đà Nẵng
 0001139392,1999-07-08,Nam,cam le,KH0104|46760,student,health service,24,Quận Cẩm Lệ,Đà Nẵng
 0001139393,1980-01-26,Nam,hai chau,KH0104|46673,blue collar,engineering,43,Quận Hải Châu,Đà Nẵng
-0001139396,1999-01-16,Nữ,hoa khanh,KH0104|46764,student,finance,24,Quận liên chiều,Đà Nẵng
+0001139396,1999-01-16,Nữ,hoa khanh,KH0104|46764,student,finance,25,Quận liên chiều,Đà Nẵng
 0001139405,2003-10-10,Nữ,quan thanh khe,KH0104|47626,teenager,,20,Quận Thanh Khê,Đà Nẵng
 0001139406,1999-09-24,Nữ,quan thanh khe,KH0104|47627,student,computer,24,Quận Thanh Khê,Đà Nẵng
 0001139415,2000-09-02,Nữ,hoa khanh,KH0104|47177,teenager,,23,Quận liên chiều,Đà Nẵng
@@ -2980,7 +2980,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001161315,1977-02-10,Nữ,thanh khe,KH0104|00003447,specialist,computer,46,Quận Thanh Khê,Đà Nẵng
 0001161331,2000-05-05,Nam,cam le,KH0104|00003844,teenager,,23,Quận Cẩm Lệ,Đà Nẵng
 0001161352,2001-03-09,Nam,hai chau,KH0104|00003461,teenager,,22,Quận Hải Châu,Đà Nẵng
-0001161361,1999-01-16,Nam,thanh khe,KH0104|00003425,student,finance,24,Quận Thanh Khê,Đà Nẵng
+0001161361,1999-01-16,Nam,thanh khe,KH0104|00003425,student,finance,25,Quận Thanh Khê,Đà Nẵng
 0001161374,1988-05-01,Nữ,hai chau,KH0104|00003393,specialist,health service,35,Quận Hải Châu,Đà Nẵng
 0001161420,1997-11-03,Nữ,quang nam,KH0104|00002497,student,finance,26,Others,Quảng Nam
 0001161422,1997-06-21,Nam,lien chieu,KH0104|00002496,student,economics,26,Quận liên chiều,Đà Nẵng
@@ -3018,8 +3018,8 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001161748,1992-04-18,Nữ,quan lien chieu,KH0104|00002958,blue collar,government agent,31,Quận liên chiều,Đà Nẵng
 0001161754,1999-07-24,Nam,hoa vang,KH0104|00003069,student,education,24,Huyện Hòa Vang,Đà Nẵng
 0001161792,2006-08-26,Nam,quan thanh khe dn,KH0104|00003136,teenager,,17,Quận Thanh Khê,Đà Nẵng
-0001161860,1993-01-17,Nam,lien chieu,KH0104|00003214,white collar,government agent,30,Quận liên chiều,Đà Nẵng
-0001161892,1991-01-20,Nam,cam le,KH0104|00003169,specialist,finance,32,Quận Cẩm Lệ,Đà Nẵng
+0001161860,1993-01-17,Nam,lien chieu,KH0104|00003214,white collar,government agent,31,Quận liên chiều,Đà Nẵng
+0001161892,1991-01-20,Nam,cam le,KH0104|00003169,specialist,finance,33,Quận Cẩm Lệ,Đà Nẵng
 0001161894,1996-04-12,Nữ,thanh khe,KH0104|00003166,white collar,health service,27,Quận Thanh Khê,Đà Nẵng
 0001161895,1987-03-10,Nam,hue,KH0104|00003165,specialist,social service,36,Others,Long An
 0001161896,1997-10-21,Nam,hai chau,KH0104|00003164,student,computer,26,Quận Hải Châu,Đà Nẵng
@@ -3050,7 +3050,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001163454,1972-01-01,Nam,cam le,KH0104|00002226,blue collar,construction,52,Quận Cẩm Lệ,Đà Nẵng
 0001163461,1999-10-15,Nữ,cam le,KH0104|00002170,student,health service,24,Quận Cẩm Lệ,Đà Nẵng
 0001163467,1990-03-02,Nam,cam le,KH0104|00002163,white collar,education,33,Quận Cẩm Lệ,Đà Nẵng
-0001163468,2000-01-20,Nam,hoa khanh,KH0104|00002162,teenager,,23,Quận liên chiều,Đà Nẵng
+0001163468,2000-01-20,Nam,hoa khanh,KH0104|00002162,teenager,,24,Quận liên chiều,Đà Nẵng
 0001163480,2003-02-14,Nữ, ton dan,KH0104|19625,teenager,,20,Quận Cẩm Lệ,Đà Nẵng
 0001163482,1992-02-01,Nam,le trong tan ,,white collar,economics,31,Quận Cẩm Lệ,Đà Nẵng
 0001163490,1992-08-15,Nữ,lien chieu,KH0104|00002395,white collar,health service,31,Quận liên chiều,Đà Nẵng
@@ -3063,7 +3063,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001163535,1992-10-15,Nữ,quang nam,KH0104|00002344,specialist,government agent,31,Others,Quảng Nam
 0001163541,1989-12-20,Nữ,son tra,KH0104|00002330,white collar,government agent,34,Quận Sơn Trà,Đà Nẵng
 0001163554,1999-08-23,Nam,cam le,KH0104|00002312,student,computer,24,Quận Cẩm Lệ,Đà Nẵng
-0001163564,1995-01-20,Nữ,hue,KH0104|00002302,blue collar,construction,28,Others,Long An
+0001163564,1995-01-20,Nữ,hue,KH0104|00002302,blue collar,construction,29,Others,Long An
 0001163575,1984-07-24,Nữ,lien chieu,KH0104|00002289,specialist,finance,39,Quận liên chiều,Đà Nẵng
 0001163590,2006-07-25,Nữ,hai chau,KH0104|00002275,teenager,,17,Quận Hải Châu,Đà Nẵng
 0001163591,1998-09-06,Nữ,cam le,KH0104|00002265,student,government agent,25,Quận Cẩm Lệ,Đà Nẵng
@@ -3074,7 +3074,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001163844,1997-08-31,Nam,quan ngu hanh son,KH0104|00003958,student,engineering,26,Quận Ngũ Hành Sơn,Đà Nẵng
 0001163849,2001-03-12,Nữ,son tra,KH0104|00003961,teenager,,22,Quận Sơn Trà,Đà Nẵng
 0001163850,1998-01-12,Nữ,quan lien chieu,KH0104|00003966,student,economics,26,Quận liên chiều,Đà Nẵng
-0001163852,1989-01-19,Nữ,quan hai chau,KH0104|00003967,white collar,social service,34,Quận Hải Châu,Đà Nẵng
+0001163852,1989-01-19,Nữ,quan hai chau,KH0104|00003967,white collar,social service,35,Quận Hải Châu,Đà Nẵng
 0001163859,1998-03-09,Nam,quan cam le,KH0104|30144,student,social service,25,Quận Cẩm Lệ,Đà Nẵng
 0001163872,2000-12-02,Nam,hai chau,KH0104|00003677,teenager,,23,Quận Hải Châu,Đà Nẵng
 0001163878,2001-05-09,Nữ,quan lien chieu,KH0104|00003654,teenager,,22,Quận liên chiều,Đà Nẵng
@@ -3087,7 +3087,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001163935,1993-05-09,Nam,pham hung da nang,KH0104|51245,blue collar,computer,30,Others,Đà Nẵng
 0001163949,1989-08-08,Nam,thanh khe,KH0104|00004530,specialist,economics,34,Quận Thanh Khê,Đà Nẵng
 0001163961,1992-11-14,Nam,hai chau,KH0104|00003793,specialist,social service,31,Quận Hải Châu,Đà Nẵng
-0001163963,1994-01-19,Nam,quan cam le,KH0104|00003791,blue collar,construction,29,Quận Cẩm Lệ,Đà Nẵng
+0001163963,1994-01-19,Nam,quan cam le,KH0104|00003791,blue collar,construction,30,Quận Cẩm Lệ,Đà Nẵng
 0001163966,1994-08-15,Nữ,quang tri,KH0104|00003784,white collar,economics,29,Others,Quảng Trị
 0001163970,1995-03-03,Nam,thanh khe,KH0104|00003787,white collar,economics,28,Quận Thanh Khê,Đà Nẵng
 0001163982,1996-03-23,Nữ,quan hai chau,KH0104|00003756,specialist,education,27,Quận Hải Châu,Đà Nẵng
@@ -3105,7 +3105,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001165080,1998-05-20,Nữ,son tra,KH0104|00004394,student,social service,25,Quận Sơn Trà,Đà Nẵng
 0001165086,1998-03-31,Nữ,ngu hanh son,KH0104|00004379,student,economics,25,Quận Ngũ Hành Sơn,Đà Nẵng
 0001165102,1996-09-19,Nữ,hoa vang,KH0104|00004679,specialist,finance,27,Huyện Hòa Vang,Đà Nẵng
-0001165108,2000-01-16,Nam,hoa khanh,KH0104|00004667,teenager,,23,Quận liên chiều,Đà Nẵng
+0001165108,2000-01-16,Nam,hoa khanh,KH0104|00004667,teenager,,24,Quận liên chiều,Đà Nẵng
 0001165116,1994-07-10,Nữ,cam le,KH0104|00004655,white collar,social service,29,Quận Cẩm Lệ,Đà Nẵng
 0001165120,2000-08-14,Nữ,quan cam le,KH0104|00004627,teenager,,23,Quận Cẩm Lệ,Đà Nẵng
 0001165123,2002-10-19,Nữ,quan thanh khe,KH0104|00004623,teenager,,21,Quận Thanh Khê,Đà Nẵng
@@ -3154,7 +3154,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001165531,1986-11-07,Nam,phan thanh,,blue collar,engineering,37,Others,
 0001165532,1997-09-22,Nữ,thanh khe,KH0104|00005512,student,government agent,26,Quận Thanh Khê,Đà Nẵng
 0001165533,2017-01-30,Nam,ngo quyen,KH0104|26382,teenager,,6,Others,Hải Phòng
-0001165540,1995-01-20,Nam,quan lien chieu,KH0104|00005539,specialist,economics,28,Quận liên chiều,Đà Nẵng
+0001165540,1995-01-20,Nam,quan lien chieu,KH0104|00005539,specialist,economics,29,Quận liên chiều,Đà Nẵng
 0001165542,1998-03-09,Nữ,ha noi,KH0104|00005528,student,computer,25,Others,Hà Nội
 0001165566,1995-01-03,Nam,lien chieu,,blue collar,computer,29,Quận liên chiều,Đà Nẵng
 0001165581,1996-08-11,Nữ,ha noi,KH0104|00005537,blue collar,education,27,Others,Hà Nội
@@ -3168,7 +3168,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001165660,1998-10-04,Nữ,quan son tra,KH0104|00001383,student,economics,25,Quận Sơn Trà,Đà Nẵng
 0001165662,1998-06-10,Nam,son trag,KH0104|00001356,student,computer,25,Others,
 0001165665,1998-07-22,Nam,quan lien chieu dn,KH0104|00001509,student,engineering,25,Quận liên chiều,Đà Nẵng
-0001165705,2001-01-18,Nam,hai chau,KH0104|40578,teenager,,22,Quận Hải Châu,Đà Nẵng
+0001165705,2001-01-18,Nam,hai chau,KH0104|40578,teenager,,23,Quận Hải Châu,Đà Nẵng
 0001165709,1999-06-25,Nam,hai chau,KH0104|00001290,student,economics,24,Quận Hải Châu,Đà Nẵng
 0001165728,2001-04-10,Nam,ngu hanh son,KH0104|00001280,teenager,,22,Quận Ngũ Hành Sơn,Đà Nẵng
 0001165751,1999-05-15,Nữ,nguyen phuoc nguyen,KH0104|14787,student,economics,24,Quận Thanh Khê,Đà Nẵng
@@ -3222,7 +3222,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001166202,1999-02-17,Nam,hai chau,KH0104|00004787,student,finance,24,Quận Hải Châu,Đà Nẵng
 0001166213,1999-03-16,Nữ,cam le,KH0104|50158,student,economics,24,Quận Cẩm Lệ,Đà Nẵng
 0001166215,1999-02-28,Nam,hoa vang,KH0104|00004604,student,economics,24,Huyện Hòa Vang,Đà Nẵng
-0001166218,1995-01-19,Nữ,quan thanh khe,KH0104|00004544,blue collar,computer,28,Quận Thanh Khê,Đà Nẵng
+0001166218,1995-01-19,Nữ,quan thanh khe,KH0104|00004544,blue collar,computer,29,Quận Thanh Khê,Đà Nẵng
 0001166230,2001-10-02,Nữ,lien chieu,KH0104|00004528,teenager,,22,Quận liên chiều,Đà Nẵng
 0001166242,1995-12-02,Nam,quan son tra,KH0104|00004577,specialist,engineering,28,Quận Sơn Trà,Đà Nẵng
 0001166245,1999-03-08,Nữ,quang nam,KH0104|00004571,student,education,24,Others,Quảng Nam
@@ -3284,7 +3284,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001166844,2005-07-18,Nữ,hai chau,KH0104|52777,teenager,,18,Quận Hải Châu,Đà Nẵng
 0001166854,1999-02-22,Nam,ngu hanh son,KH0104|52767,student,health service,24,Quận Ngũ Hành Sơn,Đà Nẵng
 0001166855,2003-09-20,Nữ,hai chau,KH0104|52766,teenager,,20,Quận Hải Châu,Đà Nẵng
-0001166859,1989-01-16,Nữ,hoa khanh,KH0104|52752,specialist,engineering,34,Quận liên chiều,Đà Nẵng
+0001166859,1989-01-16,Nữ,hoa khanh,KH0104|52752,specialist,engineering,35,Quận liên chiều,Đà Nẵng
 0001166860,1996-07-12,Nam,son tra,KH0104|52750,specialist,social service,27,Quận Sơn Trà,Đà Nẵng
 0001166870,2005-01-06,Nữ,hoa vang,KH0104|52737,teenager,,19,Huyện Hòa Vang,Đà Nẵng
 0001166880,1994-05-17,Nam,lien chieu,,blue collar,education,29,Quận liên chiều,Đà Nẵng
@@ -3421,8 +3421,8 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001168080,1989-12-20,Nam,hoang dieu,KH0104|52570,specialist,construction,34,Quận Hải Châu,Đà Nẵng
 0001168088,1998-04-11,Nữ,quan thanh khe,KH0104|00002030,student,social service,25,Quận Thanh Khê,Đà Nẵng
 0001168093,1991-08-01,Nam,hoa vang,KH0104|00001982,blue collar,government agent,32,Huyện Hòa Vang,Đà Nẵng
-0001168101,1999-01-15,Nam,hai chau,KH0104|00001973,student,education,24,Quận Hải Châu,Đà Nẵng
-0001168108,1995-01-20,Nam,hoa vang,KH0104|00001952,white collar,economics,28,Huyện Hòa Vang,Đà Nẵng
+0001168101,1999-01-15,Nam,hai chau,KH0104|00001973,student,education,25,Quận Hải Châu,Đà Nẵng
+0001168108,1995-01-20,Nam,hoa vang,KH0104|00001952,white collar,economics,29,Huyện Hòa Vang,Đà Nẵng
 0001168109,2003-07-16,Nữ,ngu hanh son,KH0104|00001950,teenager,,20,Quận Ngũ Hành Sơn,Đà Nẵng
 0001168126,1994-01-02,Nam,hoa vang,KH0104|00002152,blue collar,education,30,Huyện Hòa Vang,Đà Nẵng
 0001168144,1995-09-10,Nữ,quan thanh khe,KH0104|00002135,specialist,health service,28,Quận Thanh Khê,Đà Nẵng
@@ -3445,7 +3445,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001168335,1994-11-19,Nữ,thanh khe,KH0104|00001607,specialist,government agent,29,Quận Thanh Khê,Đà Nẵng
 0001168337,1988-01-13,Nữ,son tra,KH0104|00001612,white collar,social service,36,Quận Sơn Trà,Đà Nẵng
 0001168360,1998-10-23,Nam,quan thanh khe,KH0104|00001773,student,finance,25,Quận Thanh Khê,Đà Nẵng
-0001168368,1996-01-20,Nữ,thanh khe,KH0104|00001574,blue collar,engineering,27,Quận Thanh Khê,Đà Nẵng
+0001168368,1996-01-20,Nữ,thanh khe,KH0104|00001574,blue collar,engineering,28,Quận Thanh Khê,Đà Nẵng
 0001168407,1984-12-23,Nữ,ho chi minh,KH0104|51838,specialist,health service,39,Others,Hồ Chí Minh
 0001168430,1998-02-10,Nữ,hai chau,KH0104|52014,student,health service,25,Quận Hải Châu,Đà Nẵng
 0001168432,1983-11-30,Nam,lien chieu,KH0104|52002,specialist,finance,40,Quận liên chiều,Đà Nẵng
@@ -3458,7 +3458,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001168477,1999-01-03,Nữ,son tra,KH0104|51822,student,engineering,25,Quận Sơn Trà,Đà Nẵng
 0001168479,2000-10-20,Nam,cam le,KH0104|51821,teenager,,23,Quận Cẩm Lệ,Đà Nẵng
 0001168494,1998-12-22,Nữ,cam le,KH0104|51783,student,construction,25,Quận Cẩm Lệ,Đà Nẵng
-0001168510,1997-01-19,Nữ,ngu hanh son,KH0104|51920,student,health service,26,Quận Ngũ Hành Sơn,Đà Nẵng
+0001168510,1997-01-19,Nữ,ngu hanh son,KH0104|51920,student,health service,27,Quận Ngũ Hành Sơn,Đà Nẵng
 0001168513,1989-11-24,Nữ,hoa vang,KH0104|51917,blue collar,finance,34,Huyện Hòa Vang,Đà Nẵng
 0001168519,1999-02-11,Nữ,son tra,KH0104|51912,student,finance,24,Quận Sơn Trà,Đà Nẵng
 0001168541,1995-06-09,Nam,hoa vang,KH0104|51888,white collar,construction,28,Huyện Hòa Vang,Đà Nẵng
@@ -3530,7 +3530,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001169420,2006-08-07,Nữ,quan thanh khe dn,KH0104|00001033,teenager,,17,Quận Thanh Khê,Đà Nẵng
 0001169431,1973-09-12,Nữ,quan hai chau dn,KH0104|00000773,specialist,computer,50,Quận Hải Châu,Đà Nẵng
 0001169433,2003-07-26,Nam,tran cao van dn,KH0104|00000781,teenager,,20,Quận Thanh Khê,Đà Nẵng
-0001169441,2000-01-15,Nữ, chinh gian,KH0104|00000764,teenager,,23,Quận Thanh Khê,Đà Nẵng
+0001169441,2000-01-15,Nữ, chinh gian,KH0104|00000764,teenager,,24,Quận Thanh Khê,Đà Nẵng
 0001169451,2000-02-25,Nam,hoi an,KH0104|00000779,teenager,,23,Others,Quảng Nam
 0001169460,2001-10-15,Nam,quan hai chau,KH0104|00000789,teenager,,22,Quận Hải Châu,Đà Nẵng
 0001169461,1999-10-27,Nữ,hoa khanh,KH0104|00000699,student,economics,24,Quận liên chiều,Đà Nẵng
@@ -3600,7 +3600,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001181298,2001-09-26,Nữ,quan hai chau,KH0104|00005668,teenager,,22,Quận Hải Châu,Đà Nẵng
 0001181301,2000-02-21,Nam,hoa khanh,KH0104|00005842,teenager,,23,Quận liên chiều,Đà Nẵng
 0001181353,1997-11-12,Nữ,quan lien chieu,KH0104|00005570,student,computer,26,Quận liên chiều,Đà Nẵng
-0001181354,2001-01-20,Nữ,quang nam,KH0104|00005569,teenager,,22,Others,Quảng Nam
+0001181354,2001-01-20,Nữ,quang nam,KH0104|00005569,teenager,,23,Others,Quảng Nam
 0001181359,1997-02-19,Nam,son tra,KH0104|00005586,student,health service,26,Quận Sơn Trà,Đà Nẵng
 0001181363,1997-09-22,Nam,hai chau,,student,government agent,26,Quận Hải Châu,Đà Nẵng
 0001181366,1998-10-02,Nữ,hoa khanh,KH0104|00005681,student,engineering,25,Quận liên chiều,Đà Nẵng
@@ -3613,11 +3613,11 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001183629,1998-10-08,Nữ,lien chieu,KH0104|00005819,student,computer,25,Quận liên chiều,Đà Nẵng
 0001183649,1999-06-16,Nữ, hoa an ,KH0104|00005868,student,education,24,Others,Cao Bằng
 0001183651,1989-10-10,Nữ,hai chau,KH0104|00005811,white collar,education,34,Quận Hải Châu,Đà Nẵng
-0001183653,1986-01-15,Nam,hai chau,KH0104|00005782,specialist,finance,37,Quận Hải Châu,Đà Nẵng
+0001183653,1986-01-15,Nam,hai chau,KH0104|00005782,specialist,finance,38,Quận Hải Châu,Đà Nẵng
 0001183658,2001-08-21,Nữ,hoa phuoc,KH0104|00005860,teenager,,22,Huyện Hòa Vang,Đà Nẵng
 0001183659,2001-10-08,Nữ,huyen hoa vang,KH0104|00005861,teenager,,22,Huyện Hòa Vang,Đà Nẵng
 0001183665,1998-11-15,Nữ,lien chieu,KH0104|00005870,student,social service,25,Quận liên chiều,Đà Nẵng
-0001183677,2001-01-17,Nữ,quan hai chau,KH0104|00005754,teenager,,22,Quận Hải Châu,Đà Nẵng
+0001183677,2001-01-17,Nữ,quan hai chau,KH0104|00005754,teenager,,23,Quận Hải Châu,Đà Nẵng
 0001183678,1996-02-27,Nam,quan son tra,KH0104|00005755,specialist,engineering,27,Quận Sơn Trà,Đà Nẵng
 0001183687,1994-12-15,Nữ,hue,KH0104|00005878,blue collar,health service,29,Others,Long An
 0001183691,2002-02-19,Nữ,dien ban,KH0104|00005766,teenager,,21,Others,Quảng Nam
@@ -3688,7 +3688,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0001186401,1997-01-07,Nam,hoa khanh,KH0104|00006346,student,social service,27,Quận liên chiều,Đà Nẵng
 0001186417,1997-09-17,Nam,lien chieu,KH0104|21447,student,construction,26,Quận liên chiều,Đà Nẵng
 0001186418,1983-07-25,Nam,nguyen thuong hien,,specialist,social service,40,Others,
-0001186420,2000-01-17,Nam, khue trung ,KH0104|00006359,teenager,,23,Quận Cẩm Lệ,Đà Nẵng
+0001186420,2000-01-17,Nam, khue trung ,KH0104|00006359,teenager,,24,Quận Cẩm Lệ,Đà Nẵng
 0001186421,2005-09-15,Nam,ky dong,KH0104|00006360,teenager,,18,Others,
 0001186423,1994-08-26,Nữ,cam le,KH0104|00006303,white collar,government agent,29,Quận Cẩm Lệ,Đà Nẵng
 0001186442,2003-08-28,Nữ,thanh khe,KH0104|00006320,teenager,,20,Quận Thanh Khê,Đà Nẵng
@@ -3852,7 +3852,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0003004054,2002-07-12,Nam,hoa khanh,KH0104|00002174,teenager,,21,Quận liên chiều,Đà Nẵng
 0003004064,1990-03-05,Nam,hoa vang,KH0104|19964,white collar,government agent,33,Huyện Hòa Vang,Đà Nẵng
 0003004066,1984-02-25,Nam,hoa khanh,KH0104|31017,blue collar,engineering,39,Quận liên chiều,Đà Nẵng
-0003004067,2003-01-16,Nữ, le duan dn,KH0104|42344,teenager,,20,Others,
+0003004067,2003-01-16,Nữ, le duan dn,KH0104|42344,teenager,,21,Others,
 0003004087,2005-04-28,Nữ, le do,KH0104|7377,teenager,,18,Quận Thanh Khê,Đà Nẵng
 0003004094,1998-10-01,Nữ,ngu hanh son,KH0104|0709,student,construction,25,Quận Ngũ Hành Sơn,Đà Nẵng
 0003004096,1981-09-18,Nam,lien chieu,KH0104|52634,blue collar,economics,42,Quận liên chiều,Đà Nẵng
@@ -3888,7 +3888,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0003004430,1989-04-10,Nam,dien bien phu,KH0104|3027,white collar,economics,34,Others,Điện Biên
 0003004476,1993-10-08,Nam,hoa khanh,KH0104|12530,white collar,finance,30,Quận liên chiều,Đà Nẵng
 0003004480,1993-07-10,Nữ,hai chau,KH0104|1957,white collar,computer,30,Quận Hải Châu,Đà Nẵng
-0003004481,1997-01-16,Nữ, le duan,KH0104|1626,student,health service,26,Others,
+0003004481,1997-01-16,Nữ, le duan,KH0104|1626,student,health service,27,Others,
 0003004487,1998-12-29,Nữ,lien chieu,KH0104|29725,student,education,25,Quận liên chiều,Đà Nẵng
 0003004489,1980-09-15,Nữ,son tra,KH0104|13653,blue collar,engineering,43,Quận Sơn Trà,Đà Nẵng
 0003004495,1994-09-17,Nữ,dien bien phu,KH0104|0084,blue collar,health service,29,Others,Điện Biên
@@ -4050,7 +4050,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0003009744,2016-12-30,Nam,phuong thanh khe dong,KH0104|28222,teenager,,7,Quận Thanh Khê,Đà Nẵng
 0003009746,1994-06-15,Nam,hoa vang,KH0104|18318,white collar,government agent,29,Huyện Hòa Vang,Đà Nẵng
 0003009760,1998-03-13,Nam,quan lien chieu,KH0104|30617,student,social service,25,Quận liên chiều,Đà Nẵng
-0003009763,1996-01-15,Nữ,cu chinh lan,KH0104|1445,specialist,social service,27,Others,
+0003009763,1996-01-15,Nữ,cu chinh lan,KH0104|1445,specialist,social service,28,Others,
 0003009764,2000-07-15,Nữ,ngu hanh son,KH0104|23644,teenager,,23,Quận Ngũ Hành Sơn,Đà Nẵng
 0003009766,1987-08-19,Nam,son tra,KH0104|21689,specialist,economics,36,Quận Sơn Trà,Đà Nẵng
 0003009772,1979-10-16,Nữ,ngu hanh son,KH0104|35192,blue collar,construction,44,Quận Ngũ Hành Sơn,Đà Nẵng
@@ -4081,7 +4081,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0005008194,1992-10-02,Nữ,thanh khe ,KH0104|10590,blue collar,social service,31,Quận Thanh Khê,Đà Nẵng
 0005008196,1983-04-15,Nam,lien chieu,,specialist,construction,40,Quận liên chiều,Đà Nẵng
 0005008225,1997-03-20,Nam,hoa hiep nam lien chieu,KH0104|0060,student,computer,26,Quận liên chiều,Đà Nẵng
-0005008226,2003-01-18,Nữ,lien chieu,KH0104|52807,teenager,,20,Quận liên chiều,Đà Nẵng
+0005008226,2003-01-18,Nữ,lien chieu,KH0104|52807,teenager,,21,Quận liên chiều,Đà Nẵng
 0005008230,1989-02-23,Nam,hai phong,,blue collar,health service,34,Quận Thanh Khê,Đà Nẵng
 0005008231,2000-07-14,Nam,son tra,KH0104|46376,teenager,,23,Quận Sơn Trà,Đà Nẵng
 0005008240,1995-08-14,Nữ,cam le,KH0104|10990,white collar,government agent,28,Quận Cẩm Lệ,Đà Nẵng
@@ -4092,7 +4092,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0005008375,1995-11-07,Nam, p.hoa thuan tay,KH0104|4034,blue collar,computer,28,Quận Hải Châu,Đà Nẵng
 0005008801,1994-11-08,Nam,tran cao van,,white collar,government agent,29,Quận Thanh Khê,Đà Nẵng
 0005008804,1995-10-17,Nữ,ngu hanh son,KH0104|10499,specialist,economics,28,Quận Ngũ Hành Sơn,Đà Nẵng
-0005008806,1993-01-17,Nam,hai phong,KH0104|10180,white collar,health service,30,Quận Thanh Khê,Đà Nẵng
+0005008806,1993-01-17,Nam,hai phong,KH0104|10180,white collar,health service,31,Quận Thanh Khê,Đà Nẵng
 0005008807,1979-05-20,Nam,tran cao van,KH0104|7923,blue collar,engineering,44,Quận Thanh Khê,Đà Nẵng
 0005008810,1995-12-17,Nữ,tang btj ho,KH0104|2724,blue collar,education,28,Others,
 0005008822,1991-09-20,Nam, mai lao bang,KH0104|2327,blue collar,economics,32,Others,
@@ -4102,7 +4102,7 @@ customerid,DOB,gender,address,Website,job,industry,age,district,city
 0005008983,1992-11-17,Nam,phan thanh,,white collar,social service,31,Others,
 0005008985,1996-01-02,Nam,cam le,KH0104|6022,specialist,finance,28,Quận Cẩm Lệ,Đà Nẵng
 0005008992,1990-11-26,Nữ,ngu hanh son,KH0104|13252,white collar,social service,33,Quận Ngũ Hành Sơn,Đà Nẵng
-0005008994,1997-01-15,Nữ,son tra,KH0104|16276,student,health service,26,Quận Sơn Trà,Đà Nẵng
+0005008994,1997-01-15,Nữ,son tra,KH0104|16276,student,health service,27,Quận Sơn Trà,Đà Nẵng
 0005008998,1992-02-24,Nam,phan chau trinh,KH0104|1925,blue collar,government agent,31,Quận Hải Châu,Đà Nẵng
 0005010000,1991-10-13,Nữ,ngu hanh son,KH0104|0592,blue collar,finance,32,Quận Ngũ Hành Sơn,Đà Nẵng
 001002200,2000-08-02,Nữ,khuc ha,KH0104|0761,teenager,,23,Others,
@@ -4215,7 +4215,7 @@ KH3742976,1997-03-01,Nữ,ngu hanh son,,student,computer,26,Quận Ngũ Hành S�
 KH3755589,1994-02-14,Nữ,hai chau,,blue collar,computer,29,Quận Hải Châu,Đà Nẵng
 KH376765,1995-04-01,Nam,thua thien hue,,specialist,economics,28,Others,Thừa Thiên-Huế
 KH3768930,1992-07-15,Nam,hoa vang,,blue collar,engineering,31,Huyện Hòa Vang,Đà Nẵng
-KH3793034,1994-01-16,Nam,ha noi,,specialist,finance,29,Others,Hà Nội
+KH3793034,1994-01-16,Nam,ha noi,,specialist,finance,30,Others,Hà Nội
 KH3795102,2002-05-19,Nữ,quang nam,,teenager,,21,Others,Quảng Nam
 KH3837077,1993-12-03,Nam,bien hoa,,specialist,engineering,30,Others,Đồng Nai
 KH3840344,2004-04-09,Nam,nui thanh,,teenager,,19,Others,Quảng Nam
@@ -4235,7 +4235,7 @@ KH4300853,2002-02-09,Nam,thai thi boi,,teenager,,21,Quận Thanh Khê,Đà Nẵn
 KH4308016,1995-05-21,Nam,quang nam,,white collar,finance,28,Others,Quảng Nam
 KH4309851,2000-08-21,Nữ,quangc ngai,,teenager,,23,Others,Quảng Ngãi
 KH4312938,2000-09-06,Nữ,ha tinh,,teenager,,23,Others,Hà Tĩnh
-KH4314086,1996-01-20,Nam,nguyen luong bang,,white collar,computer,27,Quận liên chiều,Đà Nẵng
+KH4314086,1996-01-20,Nam,nguyen luong bang,,white collar,computer,28,Quận liên chiều,Đà Nẵng
 KH4326228,2001-06-09,Nam,nguyen van lam,,teenager,,22,Others,Hưng Yên
 KH4371981,2000-01-22,Nữ,ton dan,,teenager,,23,Quận Cẩm Lệ,Đà Nẵng
 KH4418141,1991-10-27,Nữ,han thuyen,,specialist,engineering,32,Others,
@@ -4327,7 +4327,7 @@ KH6290742,1996-05-12,Nữ,thang binh quang nam,,specialist,social service,27,Oth
 KH6290948,1994-10-25,Nữ,le do,,white collar,computer,29,Quận Thanh Khê,Đà Nẵng
 KH6291370,2000-01-01,Nữ,le duan,,teenager,,24,Others,
 KH6326799,1995-07-02,Nam, dien ban,,white collar,social service,28,Others,Quảng Nam
-KH6327618,1996-01-20,Nam,pham cu luong,,blue collar,finance,27,Others,
+KH6327618,1996-01-20,Nam,pham cu luong,,blue collar,finance,28,Others,
 KH6336294,2001-03-28,Nữ,hoa vang,,teenager,,22,Huyện Hòa Vang,Đà Nẵng
 KH6341139,2000-06-23,Nữ,hue,,teenager,,23,Others,Long An
 KH6344562,2003-09-24,Nam,hoa vang,,teenager,,20,Huyện Hòa Vang,Đà Nẵng
